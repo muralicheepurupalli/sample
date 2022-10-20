@@ -1,1 +1,2 @@
 ANN developed
+results obtained
